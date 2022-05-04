@@ -1,0 +1,14 @@
+li{
+    display: block;
+    float: left;
+    border-radius: 6px;
+    width: 20%;
+    border: 2px solid white;
+    padding: 5px;
+    height: 40px;
+    background-color: #001219;
+    color: #e9d8a6;
+    font-size: 20px;
+    font-weight: 600;
+}
+
