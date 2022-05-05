@@ -32,6 +32,3 @@ function setMonth(){
         list.appendChild(listItem); 
       }
 }
-
-
-const  let = `${}`;
