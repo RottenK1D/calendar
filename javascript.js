@@ -23,12 +23,15 @@ function setMonth(){
         case 'September': days = 30; break;
         case 'October': days = 31; break;
         case 'November': days = 30; break;
-        case 'December': days = 31; break;
+        case 'December': days = 31 ; break;
     }
 
     for (let i = 1; i <= days; i++) {
         const listItem = document.createElement('li');
         listItem.textContent = i;
-        list.appendChild(listItem);
+        list.appendChild(listItem); 
       }
 }
+
+
+const  let = `${}`;
